@@ -45,3 +45,15 @@ Browser checks load and render each new region, confirm the Reed, Tide, Ember, S
 ## Version 2.3 shop and building validation
 
 The market flow verifies six illustrated offers, live shard and pack counts, bundle purchasing, inventory and currency updates, purchase feedback, and insufficient-funds handling. The shop and guild contract board fit desktop and 390 × 844 phone viewports without horizontal overflow. The new market interior was visually inspected with its lighting, stock shelves, counter display, crates, and interaction markers. Rest-house healing still restores the party immediately and now adds visual and sound feedback.
+
+## Version 2.4 exploration validation
+
+Automated checks compare the walkable signatures and regional road surfaces of all ten expedition maps, confirm that every layout is unique, and verify that each hidden cache is reachable. A complete gallery was rendered and visually inspected for switchbacks, boardwalks, lava roads, ice trails, crystal mazes, reclaimed ruins, flooded causeways, skybridges, star paths, aurora trails, and their individual landmarks. The browser flow opens a cache, grants its exact rewards once, records the discovery, and reports no JavaScript errors. Existing saves on tiles changed by the redesign migrate to a safe point on the current route.
+
+## Version 2.5 living-world validation
+
+A timed canvas comparison confirms visible animation in all 17 outdoor regions. The reviewed effects include village chimney smoke and butterflies, fen mist and fireflies, forest leaves, moving coastal foam and gulls, ruin wisps, cavern glints, mountain wind, marsh rain and water ripples, lava bubbles and embers, ice beams and snow, moving prism light, garden petals, sanctum bubbles, drifting clouds, shooting stars, and flowing auroras. Regional music selections, map-arrival transitions, animated NPC markers, hidden-cache glints, and battle idle motion were also syntax and browser-error checked. Reduced-motion settings disable the major interface transitions.
+
+## Version 3.0 Hollowroot validation
+
+Automated checks cover all 24 maps and their NPC/exit reachability, all 25 creatures and abilities, the 15-item catalog, save migration from earlier releases, quest progress and one-time rewards, combat status effects, and the persistent Rootwarden victory reward. The Hollowroot gate requires the Gloomfang miniboss flag, while the regional boss uses a second phase below half health. Browser checks at 1280 × 820 and 390 × 844 cover the new quest log, Pathfinder Lodge transition, Captain Mara's quest board and mobile dialog scrolling without uncaught errors.
