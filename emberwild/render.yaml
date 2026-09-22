@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: emberwild
+    runtime: node
+    plan: free
+    buildCommand: npm install --ignore-scripts
+    startCommand: node server.js
+    healthCheckPath: /health
+    autoDeployTrigger: commit
